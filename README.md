@@ -14,9 +14,11 @@ The application allows the user to select an image, and it displays the original
 
 ## Examples: 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/shirsneh/most_dominant_colors_in_image/assets/84031027/cb9cb7c8-2810-45b9-8668-819112573dcd" height="300" width="300" alt="Image 1" style="flex: 1;">
-  <img src="https://github.com/shirsneh/most_dominant_colors_in_image/assets/84031027/d06c5ad1-f1bb-4fde-8b1a-e899423ea16d" height="300" width="300" alt="Image 2" style="flex: 1;">
-  <img src="https://github.com/shirsneh/most_dominant_colors_in_image/assets/84031027/420cd167-2210-455d-8451-87ef92c4181a" height="300" width="300" alt="Image 3" style="flex: 1;">
+  <img src="https://github.com/shirsneh/most_dominant_colors_in_image/assets/84031027/420cd167-2210-455d-8451-87ef92c4181a" height="300" alt="Image 1">
+  <img src="https://github.com/shirsneh/most_dominant_colors_in_image/assets/84031027/1225e948-c837-4178-8515-5312b27419c7" height="300" alt="Image 2">
+  <img src="https://github.com/shirsneh/most_dominant_colors_in_image/assets/84031027/8518ca2b-0d6e-44dd-b9a3-9dcece208a15" height="300" alt="Image 3">
+
+
 </div>
 
 
